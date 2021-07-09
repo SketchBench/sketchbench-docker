@@ -1,2 +1,3 @@
-# sketchbench-docker
-Collection of helper Docker images for SketchBench
+# SketchBench Docker Image Collection
+
+This repository contains a collection of helper Docker images for SketchBench.
